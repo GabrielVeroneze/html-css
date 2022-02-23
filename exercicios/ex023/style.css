@@ -5,9 +5,18 @@ body {
 table{
     width: 400px;
     border-collapse: collapse;
+    border: 5px solid rgb(196, 89, 89);
+}
+
+tr.linha {
+    background-color: rgb(207, 207, 207);
 }
 
 td {
     border: 2px solid black;
     padding: 5px;
+}
+
+td.dado {
+    background-color: rgb(223, 223, 109);
 }
