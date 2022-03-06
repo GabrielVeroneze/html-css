@@ -20,6 +20,10 @@ td, th {
     border: 1px solid black;
 }
 
-.destaque {
-    background-color: chartreuse;
+.amarelo {
+    background-color: yellow;
+}
+
+.vermelho {
+    background-color: red;
 }
